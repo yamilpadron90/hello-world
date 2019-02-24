@@ -1,0 +1,21 @@
+{
+  "name": "hello-world",
+  "version": "1.0.0",
+  "description": "Click the README.md file.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Running test\"",
+    "start": "echo \"Starting App\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yamilpadron90/hello-world.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yamilpadron90/hello-world/issues"
+  },
+  "homepage": "https://github.com/yamilpadron90/hello-world#readme"
+}
